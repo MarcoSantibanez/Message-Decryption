@@ -43,7 +43,7 @@ Used the ls command to make sure the message was now available:
 
 ![image](https://github.com/MarcoSantibanez/Message-Decryption/assets/138132151/b6244fa2-0e8e-42e2-9dd1-082bd83d67dc)
 
-Finally opened the mmessage using de cat command:
+Finally opened the message using de cat command:
 
 ![image](https://github.com/MarcoSantibanez/Message-Decryption/assets/138132151/a0df4515-e21d-46bf-8933-5fd9570be931)
 
